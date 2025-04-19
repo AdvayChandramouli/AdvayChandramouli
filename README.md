@@ -1,13 +1,15 @@
 ![Alt text](advay-gh-header.png)
 
-🔭 currently building **BlueBlood**  
+🔭 currently building **BlueBlood** 
+
 🌱 learning about **machine learning** + **UI/UX design**  
-📫 shoot me a message at: `advaycmouli[at]gmail[dot]com`  
+
 📄 check out my [resume + past experiences](https://tinyurl.com/advaycmouli-resume)  
+
 ⚡ outside of work, i enjoy **traveling**, watching **sports** (🏈🏀🏏), and **exploring nature**!
 
+📫 shoot me a message at: `advaycmouli[at]gmail[dot]com` or connect w/ me below!
 
-## 🌐 connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/advay.chandramouli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/advaychandramouli)
 [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/advaycmouli)
@@ -17,7 +19,7 @@
 
 
 
-## 💻 my tech stack
+## 💻 My Tech Stack
 ### 🧠 Languages & Frameworks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
