@@ -1,6 +1,6 @@
 ![Alt text](advay-gh-header.png)
 
-🔭 currently building **BlueBlood** 
+🔭 currently @ Verizon - 5G RF Engineering Co-Op
 
 🌱 learning about **machine learning** + **UI/UX design**  
 
