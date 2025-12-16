@@ -1,6 +1,6 @@
 ![Alt text](advay-gh-header.png)
 
-🔭 currently @ Verizon - 5G RF Engineering Co-Op
+🔭 ex. Verizon, Marshall University, INGENIUS
 
 🌱 learning about **machine learning** + **UI/UX design**  
 
