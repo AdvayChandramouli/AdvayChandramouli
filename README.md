@@ -1,4 +1,4 @@
-![Alt text](advay-gh-header.png)
+![Alt text](GitHub.png)
 
 🔭 ex. Verizon, Marshall University, INGENIUS
 
